@@ -123,7 +123,7 @@
 	    <artifactId>OracleDriver</artifactId>
 	    <version>12.1.0.2.0</version>
 	    <scope>system</scope>
-	    <systemPath>${basedir}/src/main/webapp/WEB-INF/lib/ojdbc11.jar</systemPath>
+	    <systemPath>${basedir}/src/main/webapp/WEB-INF/lib/ojdbc7.jar</systemPath>
       </dependency>
      
       
